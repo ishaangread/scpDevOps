@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="My CI CD App">
 					<content>
-                    <Text text="this is test application for CI/CD with Transport Managment System for FIORI app."/>
+                    <Text text="this is test application for CI/CD with Transport Managment System for FIORI app. UPDATED"/>
                     </content>
 				</Page>
 			</pages>
