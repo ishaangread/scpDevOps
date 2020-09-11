@@ -9,7 +9,7 @@ modules:
   - name: basicFioriApp_html_repo_runtime
   parameters:
     disk-quota: 256M
-    memory: 256M
+    memory: 128M
 - name: basicFioriApp_ui_deployer
   type: com.sap.application.content
   path: .
